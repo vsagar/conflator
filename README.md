@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/GuillaumeArnaud/conflator.svg?branch=master)](https://travis-ci.org/GuillaumeArnaud/conflator)
+[![Build Status](https://travis-ci.org/dumbjedi/conflator.svg?branch=master)](https://travis-ci.org/dumbjedi/conflator)
 
 conflator
 =========
